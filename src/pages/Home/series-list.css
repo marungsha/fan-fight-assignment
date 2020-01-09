@@ -1,0 +1,15 @@
+.series-item{
+    /* background: linear-gradient(90deg,#fcfcfc, #d8d6d6, #fcfcfc) */
+    background-color: #fff;
+    cursor: pointer;
+}
+.divider {
+    height: 1px;
+    background: -webkit-gradient(linear,left top,right top,from(hsla(220,6%,90%,0)),color-stop(#e3e4e6),color-stop(#e3e4e6),to(hsla(220,6%,90%,0)));
+    background: linear-gradient(90deg,hsla(220,6%,90%,0),#e3e4e6,#e3e4e6,hsla(220,6%,90%,0));
+}
+.divider_2{
+    height: 1px;
+    background: -webkit-gradient(linear,left top,right top,from(hsla(220,6%,90%,0)),color-stop(#e3e4e6),color-stop(#e3e4e6),to(hsla(220,6%,90%,0)));
+    background: linear-gradient(90deg,hsla(220,6%,90%,0),#e3e4e6,#e3e4e6,hsla(220,6%,90%,0));
+}
